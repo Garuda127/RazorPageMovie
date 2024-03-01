@@ -7885,11 +7885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\RazorPageMovie\\RazorPageMovie.csproj",
+      "projectUniqueName": "D:\\Github\\RazorPageMovie\\RazorPageMovie\\RazorPageMovie.csproj",
       "projectName": "RazorPageMovie",
-      "projectPath": "D:\\Github\\RazorPageMovie\\RazorPageMovie.csproj",
+      "projectPath": "D:\\Github\\RazorPageMovie\\RazorPageMovie\\RazorPageMovie.csproj",
       "packagesPath": "C:\\Users\\linse\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\RazorPageMovie\\obj\\",
+      "outputPath": "D:\\Github\\RazorPageMovie\\RazorPageMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\linse\\AppData\\Roaming\\NuGet\\NuGet.Config",
